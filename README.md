@@ -8,3 +8,4 @@ Code uses pandas library to construct frames by borough, NYC object classificati
 
 [Full project can be seen here](https://tanhatabassum.com/spatial-determinants-of-cities)
 
+![](mapsdensity.gif)

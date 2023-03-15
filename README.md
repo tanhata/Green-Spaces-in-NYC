@@ -6,6 +6,4 @@ Used in conjunction with similar datasets produced by NYC's Opendata source.
 
 Code uses pandas library to construct frames by borough, NYC object classification and acreage.
 
-[Full project can be seen here](https://tanhatabassum.com/spatial-determinants-of-cities)
-
 ![](mapsdensity.gif)

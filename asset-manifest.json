@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Green-Spaces-in-NYC/static/css/main.e6c13ad2.css",
+    "main.js": "/Green-Spaces-in-NYC/static/js/main.bfb4c5aa.js",
+    "static/js/453.9319976e.chunk.js": "/Green-Spaces-in-NYC/static/js/453.9319976e.chunk.js",
+    "index.html": "/Green-Spaces-in-NYC/index.html",
+    "main.e6c13ad2.css.map": "/Green-Spaces-in-NYC/static/css/main.e6c13ad2.css.map",
+    "main.bfb4c5aa.js.map": "/Green-Spaces-in-NYC/static/js/main.bfb4c5aa.js.map",
+    "453.9319976e.chunk.js.map": "/Green-Spaces-in-NYC/static/js/453.9319976e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bfb4c5aa.js"
+  ]
+}
